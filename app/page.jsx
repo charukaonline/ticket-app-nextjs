@@ -9,7 +9,6 @@ const dashboard = () => {
         <TickerCard />
         <TickerCard />
         <TickerCard />
-        <TickerCard />
       </div>
     </div>
   );
